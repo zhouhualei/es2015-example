@@ -11,3 +11,6 @@ webpack --watch
 ```
 node build/bundle.js
 ```
+
+# Reference
+* Learn ES2015: http://babeljs.io/docs/learn-es2015/
