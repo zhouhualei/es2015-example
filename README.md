@@ -1,2 +1,13 @@
-# es2015-example
+# Introduction
 Example project for ES2015 features
+
+# How to run the example
+* step 1, tranpile source code automatically when it is updated
+```
+webpack --watch
+```
+
+* step 2, run the code
+```
+node build/bundle.js
+```
