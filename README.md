@@ -1,5 +1,5 @@
 # Introduction
-Example project for ES2015 features
+Example project for ES2015 features using webpack and babel
 
 # How to run the example
 * step 1, tranpile source code automatically when it is updated
